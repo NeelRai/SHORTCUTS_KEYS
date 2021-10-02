@@ -1,0 +1,2 @@
+--> Alt+Shift+F === Format JSON file
+--> Cntl+B === toggle sidebar
