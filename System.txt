@@ -1,0 +1,3 @@
+--> win+sysrq=== screenshot
+--> win +Alt +R === record screen 
+--> win +G === See recordings

@@ -1,2 +1,5 @@
 --> Alt+Shift+F === Format JSON file
 --> Cntl+B === toggle sidebar
+--> Cntl + ===Zoom in
+--> Cntl - ===Zoom out
+
